@@ -1,25 +1,31 @@
 {
-    "usuarios":[
-        {
-            "id": 1,
-            "nome": "Toninho Tornado",
-            "email": "toninho@tornado.com",
-            "senha": "calabreso"
-        },
-        {
-            "id": 2,
-            "nome": "Jax Teller",
-            "email": "jax@teller.com",
-            "senha": "igotthis"
-        }
-    ],
-    "produtos":[
-        {
-            "id": 1,
-            "nome": "Café",
-            "descricao": "Café tipo arábica",
-            "validade": "2024-12-31",
-            "preco": 16.59
-        }
-    ]
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Toninho Tornado",
+      "email": "toninho@tornado.com",
+      "senha": "calabreso"
+    },
+    {
+      "id": 2,
+      "nome": "Jax Teller",
+      "email": "jax@teller.com",
+      "senha": "igotthis"
+    },
+    {
+      "nome": "jhow",
+      "email": "jhowjhonatam@jhowzinho.jhz",
+      "senha": "123456789",
+      "id": 3
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Café",
+      "descricao": "Café tipo arábica",
+      "validade": "2024-12-31",
+      "preco": 16.59
+    }
+  ]
 }
